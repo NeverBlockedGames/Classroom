@@ -1,0 +1,3 @@
+date	size'/'remotesize	flags(request:Update,Range state:File response:Modified,Chunked,gZipped)	statuscode	status ('servermsg')	MIME	Etag|Date	URL	localfile	(from URL)
+20:00:14	2508/2508	---MCZ	200	added ('OK')	text/html	date:Thu,%2009%20May%202024%2000:00:11%20GMT	https://amongus2.io/sky-riders.embed	C:/My%20Web%20Sites/https___amongus2.io_sky-riders.embed/amongus2.io/sky-riders.html	(from )
+20:00:15	59/59	---MCZ	200	added ('OK')	text/plain	etag:W/%2232-58bc2bb4f3580%22	https://amongus2.io/robots.txt		(from )
